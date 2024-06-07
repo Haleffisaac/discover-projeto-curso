@@ -14,9 +14,12 @@ Venho aqui compartilhar esse projeto incrível que desenvolvi durante as aulas d
 - *CSS:* Estilização e layout responsivo.
 - *JavaScript:* Funcionalidades interativas.
 
-# Como Visualizar
+# Vizualização do projeto:
 
-Para visualizar o projeto, basta clicar neste link: https://haleffisaac.github.io/discover-projeto-curso/
+<img src="assets/Captura de tela 2024-06-07 174623.png"><img>
+<img src="assets/Captura de tela 2024-06-07 174644.png"><img>
+
+Projeto hospedado: https://haleffisaac.github.io/discover-projeto-curso/
 
 ```
 
