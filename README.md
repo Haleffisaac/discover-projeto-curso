@@ -1,4 +1,4 @@
-Fala, dev's! 
+Fala, Dev's! 
 
 Venho aqui compartilhar esse projeto incrível que desenvolvi durante as aulas do curso Discover da Rocketseat. 
 
@@ -16,7 +16,7 @@ Venho aqui compartilhar esse projeto incrível que desenvolvi durante as aulas d
 
 # Como Visualizar
 
-Para visualizar o projeto, basta clicar neste link do meu repositório remoto no GitHub: 
+Para visualizar o projeto, basta clicar neste link: https://haleffisaac.github.io/discover-projeto-curso/
 
 ```
 
